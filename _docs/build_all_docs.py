@@ -11,6 +11,7 @@ Test doc
 
 
 def main():
+  os.makedirs(os.path.join(_DIR, "source"), exist_ok=True)
   with open(os.path.join(_DIR, "source", "index.rst"), "w") as f:
     f.write(INDEX_TEXT)
 
