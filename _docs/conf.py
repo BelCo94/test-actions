@@ -2,7 +2,7 @@ project = 'TEST'
 copyright = 'TEST'
 author = 'TEST'
 
-extensions = ['sphinx_mdinclude']
+extensions = ['breathe']
 
 templates_path = ['_templates']
 exclude_patterns = []
