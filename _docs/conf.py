@@ -1,4 +1,4 @@
-project = 'TEST'
+project = 'TEST1'
 copyright = 'TEST'
 author = 'TEST'
 
